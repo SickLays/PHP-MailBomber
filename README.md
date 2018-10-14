@@ -8,4 +8,4 @@ copia il file MailBomb.php nella tua *vps* e eseguilo con `php MailBomber.php`
 
 Non mi assumo nessuna responsabilità per l'utilizzo che ne farete
 
-(Contattami)[t.me/SickLays]
+[Contattami](t.me/SickLays)
